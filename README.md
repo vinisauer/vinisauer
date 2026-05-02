@@ -1,28 +1,35 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Fala+aí,+me+chamo+Vini+Sauer+👋;Desenvolvedor+em+evolução+💻;Python+%7C+JavaScript+%7C+HTML+%7C+CSS;Codando+coisas+aleatórias+toda+hora!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Fala+aí,+me+chamo+Vini+Sauer+👋;Desenvolvedor+em+evolução+💻;Python+%7C+JavaScript+%7C+HTML+%7C+CSS+%7C+C+%7C+Java;Codando+coisas+aleatórias+toda+hora!" />
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5">
-  <img src="https://img.shields.io/badge/Code-CSS-blue?style=for-the-badge&logo=css3">
-  <img src="https://img.shields.io/badge/Code-Python-green?style=for-the-badge&logo=python">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,java" />
 </p>
-
----
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinisauer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinisauer&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vinisauer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinisauer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<table align="center"> <tr> <td align="center"> <img src="https://streak-stats.demolab.com?user=vinisauer&theme=tokyonight&hide_border=false"/> </td> <td align="left">
-
-<b>📫 Contato</b><br>
-
-<a href="https://linkedin.com/in/vinisauer"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a><br> <a href="https://instagram.com/vini.sauer"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a><br> <a href="https://youtube.com/@SauerDev"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a><br> <a href="mailto:vinisauer.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a><br>  </td> </tr> </table>
+<h2 align="center">━━━ 📫 Contato ━━━</h2>
+<div align="center">
+  <a href="https://linkedin.com/in/vinisauer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a href="https://instagram.com/vini.sauer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="https://youtube.com/@SauerDev">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  
+  <a href="mailto:vinisauer.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
